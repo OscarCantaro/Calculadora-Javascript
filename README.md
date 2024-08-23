@@ -1,6 +1,6 @@
 # Calculadora Web
 
-![Calculadora](./assets/screenshot.png)
+![Calculadora](https://github.com/OscarCantaro/Calculadora-Javascript/blob/master/calculadora.png)
 
 Este proyecto es una calculadora web simple creada con HTML5, CSS3 y JavaScript. La calculadora permite realizar operaciones básicas como suma, resta, multiplicación y división.
 
