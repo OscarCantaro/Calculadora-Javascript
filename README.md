@@ -29,12 +29,15 @@ La calculadora es una aplicación web que simula el funcionamiento de una calcul
 1. Clona este repositorio en tu máquina local.
    ```bash
    git clone https://github.com/OscarCantaro/Calculadora-Javascript.git
+   ```
 
 ## Estructura del Proyecto
+
 ```bash
 .
-├── index.html        # Archivo principal HTML
-├── style.css        # Archivo de estilos CSS
-├── script.js         # Archivo JavaScript con la lógica de la calculadora
+├── index.html          # Archivo principal HTML
+├── style.css           # Archivo de estilos CSS
+├── script.js           # Archivo JavaScript con la lógica de la calculadora
 └── assets/
-    └── calculadora.png  # Captura de pantalla de la calculadora
+    └── screenshot.png  # Captura de pantalla de la calculadora
+```
