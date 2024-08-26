@@ -1,11 +1,14 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
-  }
+  font-family: Times; 
+  background-color: hsla(60.882352941178326, 0%, 96%, 1);
+  background-image: radial-gradient(circle at 64% 12%, hsla(63.5294117647059, 52%, 85%, 1) 6.688754566361296%, transparent 44.98438254159411%), radial-gradient(circle at 86% 50%, hsla(285.88235294117646, 52%, 85%, 1) 6.688754566361296%, transparent 44.98438254159411%);
+  background-blend-mode: darken, normal;
+}  
   
   h1 {
     text-align: center;
     margin-top: 30px;
+    color: #9333EA;
   }
   
   h2 {
@@ -17,13 +20,17 @@ body {
   h4 {
     text-align: center;
   }
+
   .calculadora {
     width: 314px;
     margin: 0 auto;
-    background-color: #fff;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+    background-color: hsla(14.588235294117649, 100%, 50%, 1);
+    background-image: radial-gradient(circle at 0% 99%, hsla(58.117647058823536, 100%, 50%, 1) 0%, transparent 67%), radial-gradient(circle at 46% 94%, hsla(14.588235294117649, 100%, 50%, 1) 0%, transparent 81%), radial-gradient(circle at 93% 95%, hsla(283.27868852459017, 100%, 23%, 1) 0%, transparent 66%), radial-gradient(circle at 89% 8%, hsla(253.469387755102, 100%, 9%, 1) 0%, transparent 150%);
+    background-blend-mode: normal, normal, normal, normal;
   }
   
   #pantalla {
